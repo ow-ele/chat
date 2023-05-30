@@ -1,6 +1,6 @@
 {
-    "name": "ChatGPT Next Web",
-    "short_name": "ChatGPT",
+    "name": "owel-gpt",
+    "short_name": "OwelGPT",
     "icons": [
       {
         "src": "/android-chrome-192x192.png",
